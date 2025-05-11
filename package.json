@@ -1,0 +1,19 @@
+{
+  "name": "twitch-autopost",
+  "version": "1.0.0",
+  "description": "Automatically posts Twitch clips to TikTok",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "@twurple/api": "^5.0.0",
+    "@twurple/auth": "^5.0.0",
+    "axios": "^1.6.0",
+    "dotenv": "^16.0.0",
+    "puppeteer": "^21.0.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "winston": "^3.11.0"
+  }
+}
