@@ -76,7 +76,3 @@ LOG_FILE_PATH=autopost.log
   - Prüfe, ob `uploaded_clips.json` korrekt geschrieben wird und nicht gelöscht/überschrieben wird.
 - **TikTok-Login/Cookies:**  
   - Cookies müssen gültig und aktuell sein. Bei Problemen neu exportieren.
-
-## Lizenz
-
-MIT #
